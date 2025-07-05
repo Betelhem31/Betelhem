@@ -1,5 +1,5 @@
 # Betelhem
-# Hey, I’m Elbetel 👋  
+# Hey, I’m Betelhem 👋  
 **UI/UX Designer** | Software Engineer | Web & Mobile Design  
 Building real things that make sense. No fluff.
 
